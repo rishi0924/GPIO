@@ -38,7 +38,7 @@ To analyze the operation of the **GPIO Toggle-Pin API** by developing an Embedde
 
 ---
 ## OUTPUT
-
+<img width="1280" height="1026" alt="WhatsApp Image 2026-09-17 at 10 51 26 AM" src="https://github.com/user-attachments/assets/7da09181-3bac-4e26-906e-3c882c732824" />
 
 
 
