@@ -1,4 +1,4 @@
-# GPIO Toggle-Pin API – LED ON/OFF Control
+[# GPIO Toggle-Pin API – LED ON/OFF Control
 
 ## Aim
 
@@ -59,3 +59,4 @@ To analyze the operation of the **GPIO Toggle-Pin API** by developing an Embedde
 ## Result
 
 The LED was successfully switched **ON and OFF continuously at one-second intervals** using the **GPIO Toggle-Pin API** on the **S32K144** microcontroller. The output timing was observed and verified successfully.
+]
