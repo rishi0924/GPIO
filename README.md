@@ -1,4 +1,4 @@
-[# GPIO Toggle-Pin API – LED ON/OFF Control
+# GPIO Toggle-Pin API – LED ON/OFF Control
 
 ## Aim
 
